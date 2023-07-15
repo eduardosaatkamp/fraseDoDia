@@ -7,7 +7,7 @@ frases = [
     'Eu sou o Goku, o defensor da Terra',
     'Terra, fogo, vento, água, coração! Com seus poderes combinados, eu sou o Capitão Planeta',
     'Meteoro de Pégasus - Seya',
-    'Não importa o quão forte você seja, sempre haverá alguém mais forte para te vencer!" - Rock Lee (Naruto)',
+    'Não importa o quão forte você seja, sempre haverá alguém mais forte para te vencer! - Rock Lee (Naruto)',
     'Não importa o quão forte você seja, sempre haverá alguém mais forte para te vencer! - Rock Lee (Naruto)',
     'Como você ousa tocar nas minhas preciosas armas? Isso é uma ofensa a todas as mulheres! - Sanji (One Piece)',
     'Pare de me cutucar, seu pedaço de gosma! - Inuyasha (Inuyasha)',
@@ -27,8 +27,9 @@ frases = [
     'Eu sou a espada que corta o mal! - Kenshin Himura, Rurouni Kenshin',
     'Eu vou ser Hokage! Naruto',
     'Eu vou dominar os quatro elementos. Aang, O último domador de ar',
-    '"Você não pode tomar a pílula vermelha e voltar. Matrix',
-    ' Há cem anos, viviam em harmonia os povos da Água, da Terra e do Fogo. Mas tudo mudou quando a Nação do Fogo atacou. Só o Avatar, mestre dos quatro elementos, podia impedi-los, mas quando o mundo mais precisou dele, ele desapareceu'
+    'Você não pode tomar a pílula vermelha e voltar. Matrix',
+    ' Há cem anos, viviam em harmonia os povos da Água, da Terra e do Fogo. Mas tudo mudou quando a Nação do Fogo atacou. Só o Avatar, mestre dos quatro elementos, podia impedi-los, mas quando o mundo mais precisou dele, ele desapareceu',
+    'Calma aí Van Damme'
 ]
 
 exports.frases = frases;
